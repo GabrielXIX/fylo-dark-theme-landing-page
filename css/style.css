@@ -1,3 +1,4 @@
+/*Custom properties*/
 :root {
     --main-font: 'Open Sans', sans-serif;
     --accent-font: 'Raleway', sans-serif;
@@ -14,7 +15,7 @@
     --clr-neutral-white: hsl(0, 0%, 100%);
 }
 
-/*Global*/
+/*Resets*/
 *, *::before, *::after {
 
     margin: 0;
@@ -22,6 +23,7 @@
     box-sizing: border-box;
 }
 
+/*Global*/
 ul {
     list-style: none;
 }
