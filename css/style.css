@@ -27,13 +27,18 @@ ul {
 }
 
 a {
-    color: var(--clr-neutral-white);
+    
     text-decoration: none;
+}
+
+a:link {
+    
+    color:#ddd;
 }
 
 a:visited {
 
-    color: var(--clr-neutral-white);
+    color: #ddd;
 }
 
 body {
