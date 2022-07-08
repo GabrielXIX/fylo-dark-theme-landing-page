@@ -27,12 +27,13 @@ ul {
 }
 
 a {
+    color: var(--clr-neutral-white);
     text-decoration: none;
 }
 
 a:visited {
 
-    color: #ddd;
+    color: var(--clr-neutral-white);
 }
 
 body {
